@@ -1,6 +1,7 @@
 All data & code for Stimulus-Matched Experiment
 
 PsychoPy experiment code: exp3.py 
+###
 Main analysis file: scripts/analyses.ipynb
 
 Pruitt, J., Knotts, J. D., & Odegaard, B. (2024). Consistent metacognitive efficiency and variable response biases in peripheral vision. Journal of Vision, 24(8), 4-4.
